@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "style": "reel",
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 24
+  },
+  "title": null,
+  "clips": [
+    {
+      "id": "knight_hook",
+      "source": "renfest",
+      "in_s": 3648.0,
+      "out_s": 3650.0,
+      "transition_in": "cut",
+      "motion": "push_in",
+      "crop_x": 0.46
+    },
+    {
+      "id": "castle_gate",
+      "source": "renfest",
+      "in_s": 4457.0,
+      "out_s": 4459.0,
+      "transition_in": "cut",
+      "motion": "push_in",
+      "crop_x": 0.5
+    },
+    {
+      "id": "butterfly_fairy",
+      "source": "renfest",
+      "in_s": 4576.8,
+      "out_s": 4577.8,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.35
+    },
+    {
+      "id": "gargoyle",
+      "source": "renfest",
+      "in_s": 4493.0,
+      "out_s": 4494.0,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.45
+    },
+    {
+      "id": "tree_fairy",
+      "source": "renfest",
+      "in_s": 1637.5,
+      "out_s": 1638.5,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.5
+    },
+    {
+      "id": "pirate",
+      "source": "renfest",
+      "in_s": 353.1,
+      "out_s": 354.1,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.62
+    },
+    {
+      "id": "bagpiper",
+      "source": "renfest",
+      "in_s": 1953.2,
+      "out_s": 1954.2,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.25
+    },
+    {
+      "id": "wash_show",
+      "source": "renfest",
+      "in_s": 1402.5,
+      "out_s": 1403.5,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.45
+    },
+    {
+      "id": "wash_show_grin",
+      "source": "renfest",
+      "in_s": 1485.2,
+      "out_s": 1486.2,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.32
+    },
+    {
+      "id": "wedding",
+      "source": "renfest",
+      "in_s": 1322.4,
+      "out_s": 1323.4,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.35
+    },
+    {
+      "id": "knights_lineup",
+      "source": "renfest",
+      "in_s": 4104.6,
+      "out_s": 4105.6,
+      "transition_in": "cut",
+      "motion": "push_in",
+      "crop_x": 0.93
+    },
+    {
+      "id": "flag_raised",
+      "source": "renfest",
+      "in_s": 4061.2,
+      "out_s": 4062.2,
+      "transition_in": "cut",
+      "motion": "push_in",
+      "crop_x": 0.6
+    },
+    {
+      "id": "blue_plume",
+      "source": "renfest",
+      "in_s": 3775.5,
+      "out_s": 3776.0,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.68
+    },
+    {
+      "id": "shield",
+      "source": "renfest",
+      "in_s": 3985.0,
+      "out_s": 3985.5,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.68
+    },
+    {
+      "id": "helmet",
+      "source": "renfest",
+      "in_s": 3785.5,
+      "out_s": 3786.0,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.36
+    },
+    {
+      "id": "knight_close",
+      "source": "renfest",
+      "in_s": 3415.2,
+      "out_s": 3415.7,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.5
+    },
+    {
+      "id": "charge",
+      "source": "renfest",
+      "in_s": 2292.8,
+      "out_s": 2293.8,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.45
+    },
+    {
+      "id": "dust_charge",
+      "source": "renfest",
+      "in_s": 3240.5,
+      "out_s": 3241.5,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.3
+    },
+    {
+      "id": "lance_pass",
+      "source": "renfest",
+      "in_s": 4200.9,
+      "out_s": 4201.9,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.25
+    },
+    {
+      "id": "dark_horse",
+      "source": "renfest",
+      "in_s": 4220.9,
+      "out_s": 4221.9,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.5
+    },
+    {
+      "id": "horse_turn",
+      "source": "renfest",
+      "in_s": 2299.2,
+      "out_s": 2300.2,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.23
+    },
+    {
+      "id": "white_horse_knight",
+      "source": "renfest",
+      "in_s": 3197.3,
+      "out_s": 3198.3,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.5
+    },
+    {
+      "id": "armor_shield",
+      "source": "renfest",
+      "in_s": 3972.0,
+      "out_s": 3973.0,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.9
+    },
+    {
+      "id": "knight_crowd",
+      "source": "renfest",
+      "in_s": 3306.4,
+      "out_s": 3307.4,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.23
+    },
+    {
+      "id": "wheel_spin",
+      "source": "renfest",
+      "in_s": 4983.2,
+      "out_s": 4984.2,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.55
+    },
+    {
+      "id": "wheel_climb",
+      "source": "renfest",
+      "in_s": 5022.9,
+      "out_s": 5023.9,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.4
+    },
+    {
+      "id": "wheel_top",
+      "source": "renfest",
+      "in_s": 5029.3,
+      "out_s": 5030.3,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.6
+    },
+    {
+      "id": "wheel_leap",
+      "source": "renfest",
+      "in_s": 5042.7,
+      "out_s": 5043.7,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.5
+    },
+    {
+      "id": "wheel_vertical",
+      "source": "renfest",
+      "in_s": 5112.1,
+      "out_s": 5113.1,
+      "transition_in": "cut",
+      "motion": "punch",
+      "crop_x": 0.5
+    },
+    {
+      "id": "wheel_ball",
+      "source": "renfest",
+      "in_s": 5290.0,
+      "out_s": 5291.0,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.5
+    },
+    {
+      "id": "archery",
+      "source": "renfest",
+      "in_s": 5479.2,
+      "out_s": 5480.2,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.3
+    },
+    {
+      "id": "crowd",
+      "source": "renfest",
+      "in_s": 3038.9,
+      "out_s": 3039.9,
+      "transition_in": "cut",
+      "motion": "none",
+      "crop_x": 0.5
+    },
+    {
+      "id": "final_knight",
+      "source": "renfest",
+      "in_s": 3639.5,
+      "out_s": 3642.5,
+      "transition_in": "cut",
+      "motion": "push_in",
+      "crop_x": 0.46
+    }
+  ],
+  "music": {
+    "track": "assets/music/renfest_reel.wav",
+    "gain_db": -1,
+    "duck_original_audio": true,
+    "duck_volume": 0.12
+  },
+  "overlays": [
+    {
+      "text": "POV: you spent a day at the Renaissance Faire",
+      "start_s": 0.0,
+      "end_s": 3.9,
+      "position": "top",
+      "style": "hook"
+    },
+    {
+      "text": "the costumes",
+      "start_s": 4.0,
+      "end_s": 7.9,
+      "position": "top",
+      "style": "caption"
+    },
+    {
+      "text": "the shows",
+      "start_s": 8.0,
+      "end_s": 10.9,
+      "position": "top",
+      "style": "caption"
+    },
+    {
+      "text": "a whole wedding??",
+      "start_s": 11.0,
+      "end_s": 12.0,
+      "position": "top",
+      "style": "caption"
+    },
+    {
+      "text": "then the knights showed up",
+      "start_s": 12.0,
+      "end_s": 15.6,
+      "position": "top",
+      "style": "caption"
+    },
+    {
+      "text": "THE JOUSTING",
+      "start_s": 16.0,
+      "end_s": 18.9,
+      "position": "center",
+      "style": "punch"
+    },
+    {
+      "text": "the wheel of death 😳",
+      "start_s": 24.0,
+      "end_s": 29.9,
+      "position": "top",
+      "style": "caption"
+    },
+    {
+      "text": "10/10 would time travel again",
+      "start_s": 32.0,
+      "end_s": 35.0,
+      "position": "center",
+      "style": "caption"
+    }
+  ],
+  "effects": [
+    {
+      "type": "flash",
+      "at_s": 16.0,
+      "duration_s": 0.3
+    },
+    {
+      "type": "flash",
+      "at_s": 24.0,
+      "duration_s": 0.2
+    },
+    {
+      "type": "fade_out",
+      "duration_s": 1.0
+    }
+  ],
+  "end_card": null
+}
